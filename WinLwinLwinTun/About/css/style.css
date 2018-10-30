@@ -1,0 +1,95 @@
+*{
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+body{
+	background:#ff8a80;
+	font:14px/20px Arial,Sans-serif;
+	color: #555;
+	margin: 0;
+}
+img{
+	height: 35px;
+	margin: 10px;
+	border-radius: 10px;
+	float: left;
+}
+
+.title{
+	margin-top: 16px;
+	float: left;
+}
+a{
+	color: #000;
+	text-decoration: none;
+	font-weight: bold;
+}
+header,footer{
+	background-color: #f0f0f0;
+	width: 100%;
+	height: 50px;
+	position: absolute;
+}
+nav{
+	margin-right: 10px;
+	float: right;
+}
+ul{
+	list-style: none;
+}
+nav ul{
+	margin: 0;
+	padding: 0;
+	line-height: 25px;
+}
+nav ul li{
+	margin: 0;
+	padding: 10px;
+	display: inline-block;
+	float: left;
+	list-style: none;
+	position: relative;
+}
+hr.thick {
+  margin: 20px auto;
+  width: 150px;
+  height: 4px;
+  border: none;
+  background: #fff;
+}
+.img-container{
+	padding: 16px;
+}
+.main-img{
+	margin-left: 8%;
+	width: 500px;
+	height: 300px;
+	border-radius: 10px;
+}
+.container{
+	padding-top: 65px;
+	height: 600px;
+}
+.text-center{
+	padding: 8px;
+	color: #fff;
+	text-align: center;
+}
+.text-f{
+	padding: 10px;
+	color: #000;
+	text-align: center;
+}
+.main-p{
+	padding: 8px;
+	font-size: 20px;
+	color: #fff; 
+}
+.list{
+	padding: 8px;
+}
+.list ul li{
+	color: #fff;
+	font-size: 20px;
+}
